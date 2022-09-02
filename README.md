@@ -8,7 +8,7 @@
 
 📖- Learning MongoDB and in the future JAVA.
 
-☁️- Cloud plataforms: Heroku.
+☁️- Cloud plataforms: Google Cloud.
  
  ##
  
