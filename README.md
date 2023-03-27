@@ -14,10 +14,10 @@
  
 <div align="center">
   <a href="https://github.com/devThiago1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devThiago1&show_icons=true&theme=dracula&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devThiago1&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devThiago1&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devThiago1&layout=compact&theme=tokyonight"/>
   <p>
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devThiago1&theme=radical&locale=pt-br" alt="ThiagoCalmon" />
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devThiago1&theme=tokyonight&locale=pt-br" alt="ThiagoCalmon" />
    </p>
 
 </div>
