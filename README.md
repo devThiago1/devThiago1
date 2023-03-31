@@ -1,4 +1,4 @@
-## Hello! I'am Thiago Calmon!
+## Hello! I'am Thiago Calmon
 
 💻- Software Developer.
 
