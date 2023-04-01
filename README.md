@@ -6,7 +6,7 @@
 
 🎯- Focus on developing API's REST using NodeJS and SQL server, but I already made projects using HTML5, CSS3 and Javascript.
 
-📖- Learning JAVA.
+📖- Learning JAVA, React Native.
 
 ☁️- Cloud plataforms: Google Cloud.
  
