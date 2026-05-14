@@ -9,6 +9,11 @@ Sou um **Desenvolvedor Front-end** focado no ecossistema **Angular** e estudante
 * 🛠️ Formado como **Técnico em Desenvolvimento de Sistemas** pelo SENAI.
 * 🗣️ **Inglês Avançado**.
 
+### 📂 Experiência 
+* **TITAN - Empresa Júnior de Engenharia da Computação (UFBA):** Trainee.
+* **Desenvolvimento Front-end Jr. (Consiste):** Foco em interfaces modernas com Angular e integração com Elasticsearch.
+* **Estágio Full-stack:** Experiência com Java, python e conteinerização com Docker.
+
 ### 🛠️ Tecnologias e Ferramentas
 * **Front-end:** Angular (Principal), React.
 * **Back-end:** Java, Python, Node.js.
